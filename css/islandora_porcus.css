@@ -1,0 +1,13 @@
+
+root {
+  display: block;
+}
+
+.porcus_thumb {
+  float: left;
+  padding: 4%;
+}
+.islandora-porcus-content {
+  color: maroon;
+  font-size: 120%;
+}
